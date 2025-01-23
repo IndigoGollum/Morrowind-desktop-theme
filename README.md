@@ -5,8 +5,15 @@ A Linux desktop theme based on The Elder Scrolls III: Morrowind. This was design
 
 Download latest release, decompress, copy to /usr/share/icons/
 Sudo required for this.
-Installed theme should look like /usr/share/icons/Morrowind/...
-
+Installed theme should look like
+/usr/share/icons/Morrowind
+                ⮡ cursor.theme
+                  cursor-index
+                  index.theme
+                  /cursors
+                    ⮡ (a bunch of symlinks)
+                      /base-files
+                          ⮡(a bunch of cursors)
 ==UPDATING==
 
 Do that again, merge folders and overwrite files.
