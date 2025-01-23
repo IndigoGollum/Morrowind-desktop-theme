@@ -1,0 +1,18 @@
+For customizing theme or fixing links.
+Base File | link 1, link 2, etc.
+
+alias | 
+cross | crosshair, cell, diamond_cross,
+crossed_circle | circle,
+center_ptr | 
+default | left_ptr, arrow,
+dnd-none | 
+help | 
+text | 
+pointer
+left_side | right_side, e-resize, w-resize
+top_left_corner | bottom_right_corner,
+top_right_corner | bottom_left_corner,
+top_side | bottom side, ns-resize,
+watch | 
+fleur | move, all-scroll, 
